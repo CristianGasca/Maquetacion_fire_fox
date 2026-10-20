@@ -1,0 +1,253 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: Helvetica;
+  font-size: 25px;
+}
+
+.ancho{
+  width: 1200px;
+}
+
+.centrar{
+  margin: auto;
+  text-align: center;
+}
+
+.btns{
+  font-size: 18px;
+  width: 850px;
+  display: inline-block;
+  vertical-align: middle;
+  padding: 20px;
+  text-align: left;
+}
+
+.btns a {
+  text-decoration: none;
+  color:  black;
+  padding: 15px;
+}
+
+.btns a:hover{
+  background-color: black;
+  color: white;
+}
+
+.btndescarga{
+  width: 300px;
+  display: inline-block;
+  vertical-align: middle;
+  text-align: right;
+}
+
+.estilodes{
+  border: 1px blue solid;
+  color: blue;
+  text-decoration: none;
+  border-radius: 30px;
+  padding: 15px;
+}
+
+.estilodes:hover{
+  border: 1px white solid ;
+  background-color: blue;
+  color: white;
+}
+
+.contenedor_info{
+  width: 700px;
+  display: inline-block;
+  font-size: 18px;
+  vertical-align: middle;
+  padding: 15px;
+  text-align: justify;
+
+}
+
+.linea{
+  width: 100%;
+  border: 3px #cecece solid;
+  background-color: #cecece;
+  height: 1px;
+}
+
+.btna{
+  background-color: blue;
+  border-radius: 10px;
+  color: white;
+  padding: 20px;
+}
+
+.btna:hover{
+  border: 1px blue solid;
+  background-color: white;
+  color: blue;
+}
+
+.priva{
+  padding: 10px;
+  color: #cecece;
+  font-size: 15px;
+  text-align: left;
+}
+
+.contenedor_img{
+  width: 450px;
+  display: inline-block;
+  vertical-align: middle;
+  text-align: right;
+}
+
+.contenedor_img img{
+  width: 100%;
+}
+
+.contenedor_gris{
+  background-color: #cecece;
+  padding: 20px;
+}
+
+.contenedor_dino{
+  width: 350px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.contedor_dino img{
+  width: 100%;
+}
+
+.contenedor_info_dino{
+  width: 350px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.impacto{
+  padding: 20px;
+  width: 500px;
+  display: inline-block;
+  vertical-align: middle;
+  font-size: 18px;
+  text-align: justify;
+}
+
+.impacto a{
+  color: blue;
+  font-weight: bold;
+}
+
+.contenedor_innovacio{
+  padding: 20px;
+  width: 500px;
+  display: inline-block;
+  vertical-align: middle;
+  font-size: 18px;
+  text-align: justify;
+}
+
+.contenedor_innovacio a{
+  color: blue;
+  font-weight: bold;
+}
+.separador{
+  border: 1px #cecece solid;
+  background-color: #cecece;
+  width: 1px;
+  height: 500px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.extensiones{
+  width: 350px;
+  padding: 20px;
+  display: inline-block;
+  vertical-align: middle;
+  text-align: center;
+}
+
+.chino{
+  text-align: justify;
+  font-weight: bold;
+  color: black;
+}
+
+.empleos{
+  width: 350px;
+  padding: 20px;
+  display: inline-block;
+  vertical-align: middle;
+  text-align: center;
+}
+.ayuda{
+  width: 350px;
+  padding: 20px;
+  display: inline-block;
+  vertical-align: middle;
+  text-align: center;
+}
+
+.fototo{
+  width: 300px;
+  padding: 20px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.fototo img{
+  width: 100%;
+}
+
+.formsss{
+  width: 600px;
+  padding: 20px;
+  font-size: 18px;
+  display: inline-block;
+  vertical-align: middle;
+  text-align: justify;
+}
+
+.elementos2{
+  width: 450px;
+  height: 50px;
+  padding: 10px;
+  border-radius: 10px;
+  border: 3px rgba(128, 128, 128, 0.358) solid;
+  background-color: white;
+  margin-bottom: 10px;
+  resize: none;
+}
+
+.btnne{
+  background-color: black;
+  color: white;
+  width: 450px;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.btnne:hover{
+  background-color: white;
+  color: black;
+}
+
+.negritas{
+  font-weight: bold;
+}
+
+.textchico{
+  font-size: 15px;
+  text-align: justify;
+}
+
+.footerr{
+  height: 200px;
+  background-color: black;
+  padding: 100px;
+}
